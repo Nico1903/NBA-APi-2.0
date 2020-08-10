@@ -20,6 +20,7 @@ for datapoint in nba_json["data"]:
     print("Team: " + str(datapoint["team"]["full_name"]))
     
 
+print("Funktion1")
 
 
 
